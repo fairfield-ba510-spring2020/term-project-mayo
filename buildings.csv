@@ -1,0 +1,208 @@
+,location,BuildingName,BuildingCode
+0,DSB 105,Dolan School of Business,DSB
+1,DSB 111,Dolan School of Business,DSB
+2,DSB 110A,Dolan School of Business,DSB
+3,DSB 108,Dolan School of Business,DSB
+4,DSB 110B,Dolan School of Business,DSB
+5,DSB 104,Dolan School of Business,DSB
+6,DSB 112,Dolan School of Business,DSB
+7,DSB 109,Dolan School of Business,DSB
+8,DSB 115,Dolan School of Business,DSB
+9,DSB 2109A,Dolan School of Business,DSB
+10,CNS 5,Canisius Hall,CNS
+11,CNS 108,Canisius Hall,CNS
+12,CNS 106,Canisius Hall,CNS
+13,BNW 254,Bannow Science Center,BNW
+14,SON 124,School of Nursing,SON
+15,CNS 303,Canisius Hall,CNS
+16,CNS 305,Canisius Hall,CNS
+17,BNW 137,Bannow Science Center,BNW
+18,CNS 15,Canisius Hall,CNS
+19,CNS 208,Canisius Hall,CNS
+20,CNS 103,Canisius Hall,CNS
+21,BLM LL105,Bellarmine Hall,BLM
+22,DMH 349,Donnarumma Hall,DMH
+23,DMH 350,Donnarumma Hall,DMH
+24,CNS 204,Canisius Hall,CNS
+25,CNS 207,Canisius Hall,CNS
+26,BY ARR ,By Arrangement,BY ARR 
+27,CNS 6,Canisius Hall,CNS
+28,CNS 9,Canisius Hall,CNS
+29,CNS 1,Canisius Hall,CNS
+30,BNW 332,Bannow Science Center,BNW
+31,BNW 256,Bannow Science Center,BNW
+32,BNW 254A,Bannow Science Center,BNW
+33,SON 203,School of Nursing,SON
+34,BNW 240,Bannow Science Center,BNW
+35,BNW 245,Bannow Science Center,BNW
+36,BNW 261,Bannow Science Center,BNW
+37,BNW 264,Bannow Science Center,BNW
+38,BNW 319,Bannow Science Center,BNW
+39,BNW 369,Bannow Science Center,BNW
+40,BNW 333,Bannow Science Center,BNW
+41,BNW 166,Bannow Science Center,BNW
+42,BNW GR22,Bannow Science Center,BNW
+43,BNW 238A,Bannow Science Center,BNW
+44,BNW 267,Bannow Science Center,BNW
+45,BNW 269,Bannow Science Center,BNW
+46,NYS 107C,DiMenna-Nyselius Library,NYS
+47,MCA 204,McAuliffe Hall,MCA
+48,MCA 206,McAuliffe Hall,MCA
+49,BNW 361,Bannow Science Center,BNW
+50,BNW 341,Bannow Science Center,BNW
+51,BNW 335,Bannow Science Center,BNW
+52,BNW 131,Bannow Science Center,BNW
+53,BNW 127,Bannow Science Center,BNW
+54,BNW 362,Bannow Science Center,BNW
+55,BNW 340,Bannow Science Center,BNW
+56,BNW 339,Bannow Science Center,BNW
+57,BNW 343,Bannow Science Center,BNW
+58,BNW 363,Bannow Science Center,BNW
+59,CNS 10,Canisius Hall,CNS
+60,CNS 202,Canisius Hall,CNS
+61,DMH 348,Donnarumma Hall,DMH
+62,CNS 203,Canisius Hall,CNS
+63,DMH 347,Donnarumma Hall,DMH
+64,CNS 206,Canisius Hall,CNS
+65,MCA 102,McAuliffe Hall,MCA
+66,CNS 2,Canisius Hall,CNS
+67,CNS 301,Canisius Hall,CNS
+68,DMH 231,Donnarumma Hall,DMH
+69,BNW 129B,Bannow Science Center,BNW
+70,CNS 304,Canisius Hall,CNS
+71,CNS 101,Canisius Hall,CNS
+72,CNS 306,Canisius Hall,CNS
+73,CNS 209,Canisius Hall,CNS
+74,LYL 227B,Loyola Hall,LYL
+75,CNS 104,Canisius Hall,CNS
+76,DMH 131,Donnarumma Hall,DMH
+77,BNW 469,Bannow Science Center,BNW
+78,DMH 149,Donnarumma Hall,DMH
+79,DMH 148,Donnarumma Hall,DMH
+80,MCA 203,McAuliffe Hall,MCA
+81,BNW 133,Bannow Science Center,BNW
+82,BNW 139,Bannow Science Center,BNW
+83,BNW 253,Bannow Science Center,BNW
+84,DLH 107,Dolan House,DLH
+85,MCA 107,McAuliffe Hall,MCA
+86,BNW 334,Bannow Science Center,BNW
+87,DMH 331,Donnarumma Hall,DMH
+88,XVR 15,Xavier Hall,XVR
+89,XVR 13,Xavier Hall,XVR
+90,XVR 5,Xavier Hall,XVR
+91,DSB 114,Dolan School of Business,DSB
+92,DSB 106,Dolan School of Business,DSB
+93,FBR ,Faber Hall,FBR
+94,EGN ,Egan Chapel St Ignatius Loyola,EGN
+95,GNZ AUDI,Gonzaga Hall,GNZ
+96,CNS 200,Canisius Hall,CNS
+97,JGS 25,Jogues Hall,JGS
+98,EGN MCGRATH,Egan Chapel St Ignatius Loyola,EGN
+99,BCC 200,Barone Campus Center,BCC
+100,LYL 2,Loyola Hall,LYL
+101,DMH 245,Donnarumma Hall,DMH
+102,BNW 138,Bannow Science Center,BNW
+103,DSB 107,Dolan School of Business,DSB
+104,NYS 115,DiMenna-Nyselius Library,NYS
+105,SWH 102,Southwell Hall,SWH
+106,BNW 128,Bannow Science Center,BNW
+107,MCA 101,McAuliffe Hall,MCA
+108,JGS LAB-A,Jogues Hall,JGS
+109,SON 214,School of Nursing,SON
+110,JHE ,Jewish Home for the Elderly Campus | Jewish Senior Services,JHE
+111,VA ,VA CT Health Care System Campus | VA CT Health Care System,VA
+112,LCH ,Lord Chamberlain Nursing/Rehab Campus | Lord Chamberlain Nursing/Rehab,LCH
+113,TBA,To be announced,TBA
+114,YAL ,Yale New Haven Hospital Campus | Yale New Haven Hospital,YAL
+115,STW ,St Vincent's Westport Campus | St Vincent's Westport,STW
+116,SILV ,Silver Hill Hospital Campus | Silver Hill Hospital,SILV
+117,GBMH ,Greater Bpt Mental Health Campus | Greater Bpt Mental Health,GBMH
+118,SON 217,School of Nursing,SON
+119,NOR ,Norwalk Hospital Campus | Norwalk Hospital,NOR
+120,STM ,St Mary's Hospital Campus | St Mary's Hospital,STM
+121,GR ,Greenwich Hospital Campus | Greenwich Hospital,GR
+122,STAMH ,Stamford Hospital Campus | Stamford Hospital,STAMH
+123,DH ,Danbury Hospital Campus | Danbury Hospital,DH
+124,STV ,St Vincent's Hospital Campus | St Vincent's Hospital,STV
+125,GRF ,Griffin Hospital Campus | Griffin Hospital,GRF
+126,SON ANNEX,School of Nursing,SON
+127,SON 118,School of Nursing,SON
+128,BNW 236,Bannow Science Center,BNW
+129,SON 209,School of Nursing,SON
+130,BNW 162,Bannow Science Center,BNW
+131,BNW 130,Bannow Science Center,BNW
+132,BNW 163,Bannow Science Center,BNW
+133,LYL 22,Loyola Hall,LYL
+134,LYL 1,Loyola Hall,LYL
+135,LYL 8,Loyola Hall,LYL
+136,LYL 20,Loyola Hall,LYL
+137,LYL 21,Loyola Hall,LYL
+138,PTH MAIN,Fairfield Campus | Pepsico Theatre,PTH
+139,NYS 101,DiMenna-Nyselius Library,NYS
+140,BNW 124,Bannow Science Center,BNW
+141,DW G111,Dolan Hall West,DW
+142,DW G101,Dolan Hall West,DW
+143,DMH 241,Donnarumma Hall,DMH
+144,CMP 313,Campion Hall,CMP
+145,CMP 413,Campion Hall,CMP
+146,MCK 101,McAuliffe Hall,MCK
+147,LYL 145,Loyola Hall,LYL
+148,DMH 126,Donnarumma Hall,DMH
+149,BLM 112,Bellarmine Hall,BLM
+150,ONLINE ,Online,ONLINE
+151,LUDLW ,Ludlowe Ctr for Health & Rehab Campus | Ludlowe Ctr for Health & Rehab,LUDLW
+152,HSR ,Yale New Haven Hospital Saint Raphael Campus | Yale New Haven Hospital Saint Raphael Campus,HSR
+153,BH ,Bridgeport Hospital Campus | Bridgeport Hospital,BH
+154,SON 212,School of Nursing,SON
+155,MCA 112,McAuliffe Hall,MCA
+156,QCK SCENE,Quick Center for the Arts,QCK SCENE
+157,BNW 329,Bannow Science Center,BNW
+158,DW G108,Dolan Hall West,DW
+159,FBR 1DR1,Faber Hall,FBR
+160,BNW 136,Bannow Science Center,BNW
+161,BW ,Bishop Wicke Health Center Campus | Bishop Wicke Health Center,BW
+162,NWG ,"Nathaniel Witherell, Greenwich Campus | Nathaniel Witherell, Greenwich",NWG
+163,MCA 202,McAuliffe Hall,MCA
+164,NCRGUA ,"Managua, Nicaragua Campus | Nicaragua (Nursing)",NCRGUA
+165,BH BY ARR,Bridgeport Hospital | Room By Arrangement,BH BY ARR
+166,PTH DESIGN,Fairfield Campus | Pepsico Theatre,PTH
+167,NHS 210,Fairfield Campus | Nursing and Health Studies,NHS
+168,NHS 224,Fairfield Campus | Nursing and Health Studies,NHS
+169,NHS 411,Fairfield Campus | Nursing and Health Studies,NHS
+170,NHS 405,Fairfield Campus | Nursing and Health Studies,NHS
+171,NHS 403,Fairfield Campus | Nursing and Health Studies,NHS
+172,NHS 203,Fairfield Campus | Nursing and Health Studies,NHS
+173,NHS 404,Fairfield Campus | Nursing and Health Studies,NHS
+174,NHS 410,Fairfield Campus | Nursing and Health Studies,NHS
+175,EGN COMM,Egan Chapel St Ignatius Loyola,EGN
+176,NYS 114,DiMenna-Nyselius Library,NYS
+177,NHS 103,Fairfield Campus | Nursing and Health Studies,NHS
+178,NHS 405A,Fairfield Campus | Nursing and Health Studies,NHS
+179,NHS 104,Fairfield Campus | Nursing and Health Studies,NHS
+180,NHS 308,Fairfield Campus | Nursing and Health Studies,NHS
+181,WTBRY ,Waterbury Hospital Campus | Waterbury Hospital,WTBRY
+182,CMC ,"CT Children's Medical Center Campus | Children's Med Ctr, Hartford",CMC
+183,NHS 208,Fairfield Campus | Nursing and Health Studies,NHS
+184,NHS 204,Fairfield Campus | Nursing and Health Studies,NHS
+185,NHS 407,Fairfield Campus | Nursing and Health Studies,NHS
+186,LNG 109,42 Langguth Hall,LNG
+187,DW G109,Dolan Hall West,DW
+188,NHS 301,Fairfield Campus | Nursing and Health Studies,NHS
+189,BNW 144,Bannow Science Center,BNW
+190,NHS 403A,Fairfield Campus | Nursing and Health Studies,NHS
+191,DMH 230,Donnarumma Hall,DMH
+192,FPS ,Fairfield Public Schools Campus | Fairfield Public Schools,FPS
+193,BD ,Blythedale Hospital Campus | Blythedale Children's Hospital,BD
+194,NHD ,Norwalk Health Department Campus | Norwalk Health Department,NHD
+195,RVNA ,Ridgefield Visiting Nurse Association Campus | Ridgefield Visiting Nurse Association ,RVNA
+196,SHC ,Stratford Home Care Campus | Stratford Home Care,SHC
+197,SON ,School of Nursing,SON
+198,DSB 110,Dolan School of Business,DSB
+199,XVR TV,Xavier Hall,XVR
+200,BNW 143,Bannow Science Center,BNW
+201,DW G105,Dolan Hall West,DW
+202,BPS ,Bridgeport Public Schools Campus | Bridgeport Public Schools,BPS
+203,NHS 205,Fairfield Campus | Nursing and Health Studies,NHS
+204,NHS 103/104,Fairfield Campus | Nursing and Health Studies,NHS
+205,BY ARR X,By Arrangement,BY ARR X
+206,MILY ,Milford YMCA,MILY
