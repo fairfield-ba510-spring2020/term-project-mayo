@@ -1,0 +1,90 @@
+,PID,program_code,program_name
+0,1,AN,Asian Studies
+1,2,BU,Business
+2,3,BL,Black Studies
+3,4,BEN,Bioengineering
+4,5,AR,Arabic
+5,6,AY,Anthropology
+6,7,AS,American Studies
+7,8,JA,Japanese
+8,9,AH,Art History
+9,10,AE,Applied Ethics
+10,11,IRI,Irish Studies
+11,12,AC,Accounting
+12,13,IT,Italian
+13,14,IL,International Studies
+14,15,WS,"Women, Gender, and Sexuality Studies"
+15,16,BI,Biology
+16,17,IN,Interior Design
+17,18,TA,Theatre
+18,19,TX,Taxation
+19,20,SL,TESOL and Bilingual Education
+20,21,RES,"Russian, Eastern European, and Central Asian Studies"
+21,22,SW,Software Engineering
+22,23,SA,Studio Art
+23,24,SO,Sociology
+24,25,RU,Russian
+25,26,SP,Spanish
+26,27,RLD,Reading and Language Development
+27,28,QA,Quantitative Analysis
+28,29,MPA,Public Administration
+29,30,SE,Special Education
+30,31,RS,Religious Studies
+31,32,PO,Politics
+32,33,PJ,Peace and Justice Studies
+33,34,PY,Psychology
+34,35,OM,Operations Management
+35,36,PS,Physics
+36,37,PH,Philosophy
+37,38,NSMW,Nursing: Midwifery
+38,39,PG,Portuguese
+39,40,NSAN,Nursing: Anesthesia
+40,41,MU,Music
+41,42,MOT,Management of Technology
+42,43,ME,Mechanical Engineering
+43,44,LAC,Latin American and Caribbean Studies
+44,45,MG,Management
+45,46,MA,Mathematics
+46,47,MK,Marketing
+47,48,NS,Nursing
+48,49,LA,Latin
+49,50,ID,Interdisciplinary
+50,51,HU,Humanities
+51,52,IS,Information Systems
+52,53,HA,Humanitarian Action
+53,54,HR,Honors
+54,55,HE,Hebrew
+55,56,HS,Health Studies
+56,57,GR,Greek
+57,58,GD,Graphic Design
+58,59,GM,German
+59,60,GS,General Studies
+60,61,FR,French
+61,62,HI,History
+62,63,FT,Family Therapy
+63,64,EV,Environmental Studies
+64,65,FI,Finance
+65,66,FTM,"Film, Television, and Media Arts"
+66,67,EEG,English for Engineers
+67,68,EG,Engineering
+68,69,EE,Electrical Engineering
+69,70,ENW,English: Writing
+70,71,ECE,Electrical and Computer Engineering
+71,72,MD,Educational Technology
+72,73,EN,English
+73,74,ED,Education
+74,75,CS,Computer Science
+75,76,CR,Computer Engineering
+76,77,EC,Economics
+77,78,CN,Counseling
+78,79,CL,Classical Studies
+79,80,CI,Chinese
+80,81,BB,Business
+81,82,CO,Communication
+82,83,CH,Chemistry
+83,84,BA,Business Analytics
+84,85,SHS,Summer Pre-College Programs
+85,86,PB,Public Health
+86,87,IB,International Business
+87,88,FE,First Year Experience
+88,89,ASEN,American Studies: English
