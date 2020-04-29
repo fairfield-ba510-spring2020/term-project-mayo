@@ -7,10 +7,10 @@ ___
 
 #### Background: Data Understanding
 
-__19 Semesters of overall course data for Fairfield University, which included:__ <br>
+__19 Semesters of overall Course Data for Fairfield University, which included:__ <br>
     - 2 Course Catalogues for 2018 & 2019 in (csv format) <br>
-    - course listings for each semester (Fall, Spring, Winter, Summer) from 2015- 2019  (csv-format) <br>
-    - Individual course meeting for each section (csv format) <br>
+    - Course Listings for each Semester (Fall, Spring, Winter, Summer) from 2015- 2019  (csv-format) <br>
+    - Individual Course Meeting for each Section (csv format) <br>
 
 __Additional information in pdf format__ <br>
     - Academic Calendars for 2014-2018 <br>
