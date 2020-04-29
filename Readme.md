@@ -15,6 +15,8 @@ __19 Semesters of overall Course Data for Fairfield University, which included:_
 __Additional information in pdf format__ <br>
     - Academic Calendars for 2014-2018 <br>
     - Academic Catalogues for 2014-2017 <br>
+
+Data Dictionary [link](./docs/CourseDataDictionary.md)
    
 #### Design & Build Operational Database:
 
