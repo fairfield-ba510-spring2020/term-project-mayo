@@ -16,7 +16,7 @@ __Additional information in pdf format__ <br>
     - Academic Calendars for 2014-2018 <br>
     - Academic Catelogues for 2014-2017 <br>
    
-#### Design & Build:
+#### Design & Build Operational Database:
 
 <b> Step 1 </b> : Design an Entity Relationship Diagram [link](./docs/CourseDataERD.pdf) <br>
 
@@ -31,14 +31,14 @@ __Additional information in pdf format__ <br>
 <b> Step 3: </b> Test the Operational Database [link](CourseDataTest.ipynb) <br>
 
 <b> Step 4: </b> Create an Operational Database Demo [link](http://mayosql.me) <br>
-
-<b> Step 5: </b> Design A Star Schema [link](./docs/fact-table-management.pdf) <br>
+#### Design & Build Data Warehouse:
+<b> Step 1: </b> Design A Star Schema [link](./docs/fact-table-management.pdf) <br>
 - Create a Fact Table: COURSES_FACT
 - Create 4 Dimension Tables: PROGRAMS_DIM, LOCATIONS_DIM, FACULTY_DIM, COURSE_CATALOGS_DIM
    
-<b> Step 6: </b> Build the DataWarehouse [link](CourseDataWarehouseTest.ipynb) <br>
+<b> Step 2: </b> Build the Data Warehouse [link](CourseDataWarehouseTest.ipynb) <br>
     - Rebuilding the missing catalog years [link](./fixing_catalog_years/fixing_missing_program_name_and_code.ipynb) <br>
     
-<b> Step 7: </b> Test the DataWarehouse [link](CourseDataWarehouseTest.ipynb) <br>
+<b> Step 3: </b> Test the DataWarehouse [link](CourseDataWarehouseTest.ipynb) <br>
 
-<b> Step 8: </b> Create a Demo with 3 queries [link](CourseDataWarehouseDemo.ipynb)
+<b> Step 4: </b> Create a Demo with 3 queries [link](CourseDataWarehouseDemo.ipynb)
