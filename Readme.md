@@ -8,13 +8,13 @@ ___
 #### Background: Data Understanding
 
 __19 Semesters of overall course data for Fairfield University, which included:__ <br>
-    - 2 Course catelogues for 2018 & 2019 in (csv format) <br>
+    - 2 Course Catalogues for 2018 & 2019 in (csv format) <br>
     - course listings for each semester (Fall, Spring, Winter, Summer) from 2015- 2019  (csv-format) <br>
     - Individual course meeting for each section (csv format) <br>
 
 __Additional information in pdf format__ <br>
     - Academic Calendars for 2014-2018 <br>
-    - Academic Catelogues for 2014-2017 <br>
+    - Academic Catalogues for 2014-2017 <br>
    
 #### Design & Build Operational Database:
 
@@ -26,7 +26,7 @@ __Additional information in pdf format__ <br>
     - Clean Datasets
 3. Create Tables from ERD
 4. Populate the ERD Tables from The Imported Data Tables
-5. Empty out the Import Tables to reclaim storage space
+5. Empty the Import Tables to reclaim storage space
     
 <b> Step 3: </b> Test the Operational Database [link](CourseDataTest.ipynb) <br>
 
