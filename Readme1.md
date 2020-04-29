@@ -5,6 +5,19 @@ __Spring 2020__
 
 ___
 
+#### Background: Data Understanding
+
+__19 Semesters of overall course data for Fairfield University, which included:__
+    - 2 Course catelogues for 2018 & 2019 in (csv format) <br>
+    - course listings for each semester (Fall, Spring, Winter, Summer) from 2015- 2019  (csv-format) <br>
+    - Individual course meeting for each section (csv format) <br>
+
+__Additional information in pdf format__
+    - Academic Calendars for 2014-2018 <br>
+    - Academic Catelogues for 2014-2017 <br>
+   
+#### Design & Build:
+
 <b> Step 1 </b> : Design an Entity Relationship Diagram [link](./docs/CourseDataERD.pdf) <br>
 
 <b> Step 2: </b> Build the Operational Database [link](CourseDataETL.ipynb) <br>
