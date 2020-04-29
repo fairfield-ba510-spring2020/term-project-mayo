@@ -16,7 +16,7 @@ __Additional information in pdf format__ <br>
     - Academic Calendars for 2014-2018 <br>
     - Academic Catalogues for 2014-2017 <br>
 
-Data Dictionary [link](./docs/CourseDataDictionary.md)
+The Data Dictionary can be found here: [link](./docs/CourseDataDictionary.md)
    
 #### Design & Build Operational Database:
 
