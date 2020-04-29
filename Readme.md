@@ -24,7 +24,7 @@ ___
 - Create 4 Dimension Tables: PROGRAMS_DIM, LOCATIONS_DIM, FACULTY_DIM, COURSE_CATALOGS_DIM
     
 <b> Step 6: </b> Build the DataWarehouse [link](CourseDataWarehouseTest.ipynb) <br>
-    - Rebuilding the missing catalog years [link](./fixing_catalog_years/fixing missing program_name and_code.ipynb)
+    - Rebuilding the missing catalog years [link](./fixing_catalog_years/fixing_missing_program_name_and_code.ipynb)
     
 <b> Step 7: </b> Test the DataWarehouse [link](CourseDataWarehouseTest.ipynb) <br>
 
