@@ -5,6 +5,19 @@ __Spring 2020__
 
 ___
 
+#### Background: Data Understanding
+
+__19 Semesters of overall course data for Fairfield University, which included:__ <br>
+    - 2 Course catelogues for 2018 & 2019 in (csv format) <br>
+    - course listings for each semester (Fall, Spring, Winter, Summer) from 2015- 2019  (csv-format) <br>
+    - Individual course meeting for each section (csv format) <br>
+
+__Additional information in pdf format__ <br>
+    - Academic Calendars for 2014-2018 <br>
+    - Academic Catelogues for 2014-2017 <br>
+   
+#### Design & Build:
+
 <b> Step 1 </b> : Design an Entity Relationship Diagram [link](./docs/CourseDataERD.pdf) <br>
 
 <b> Step 2: </b> Build the Operational Database [link](CourseDataETL.ipynb) <br>
@@ -17,14 +30,14 @@ ___
     
 <b> Step 3: </b> Test the Operational Database [link](CourseDataTest.ipynb) <br>
 
-<b> Step 4: </b> Create a Demo [link](http://mayosql.me) <br>
+<b> Step 4: </b> Create an Operational Database Demo [link](http://mayosql.me) <br>
 
 <b> Step 5: </b> Design A Star Schema [link](./docs/fact-table-management.pdf) <br>
 - Create a Fact Table: COURSES_FACT
 - Create 4 Dimension Tables: PROGRAMS_DIM, LOCATIONS_DIM, FACULTY_DIM, COURSE_CATALOGS_DIM
-    
+   
 <b> Step 6: </b> Build the DataWarehouse [link](CourseDataWarehouseTest.ipynb) <br>
-    - Rebuilding the missing catalog years [link](./fixing_catalog_years/fixing_missing_program_name_and_code.ipynb)
+    - Rebuilding the missing catalog years [link](./fixing_catalog_years/fixing_missing_program_name_and_code.ipynb) <br>
     
 <b> Step 7: </b> Test the DataWarehouse [link](CourseDataWarehouseTest.ipynb) <br>
 
