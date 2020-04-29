@@ -19,11 +19,11 @@ Step 3: </b> Test the Operational Database [link](CourseDataTest.ipynb)
 
 <b> Step 4: </b> Create a Demo [link](http://mayosql.me)
 
-<b> Step 5: </b> Design A Star Schema [link](./docs/fact-table-management.pdf)
-    - Create a Fact Table: COURSES_FACT
-    - Create 4 Dimension Tables: PROGRAMS_DIM, LOCATIONS_DIM, FACULTY_DIM, COURSE_CATALOGS_DIM
+<b> Step 5: </b> Design A Star Schema [link](./docs/fact-table-management.pdf) <br>
+- Create a Fact Table: COURSES_FACT
+- Create 4 Dimension Tables: PROGRAMS_DIM, LOCATIONS_DIM, FACULTY_DIM, COURSE_CATALOGS_DIM
     
-Step 6: </b> Build the DataWarehouse [link](CourseDataWarehouseTest.ipynb)
+Step 6: </b> Build the DataWarehouse [link](CourseDataWarehouseTest.ipynb) <br>
     - Rebuilding the missing catalog years [link](./fixing_catalog_years/fixing missing program_name and_code.ipynb)
     
 Step 7: </b> Test the DataWarehouse [link](CourseDataWarehouseTest.ipynb)
